@@ -1,7 +1,10 @@
 # Excel Coffee Sales Project
 
 ### Project Overview
-This guided data analysis project aims to provide insights into the sales performance of coffee beans from a company over a 4-year timeframe. This project focused on utilizing Microsoft Excel to gain a general understanding of the data process and applying analysis techniques. The primary goal was to analyze a dataset, extract meaningful insights, and present the findings in an organized and interpretable manner.
+This guided data analysis project aims to provide insights into the sales performance of coffee beans from a company over a 4-year timeframe. This project focused on utilizing Microsoft Excel to understand the data process and apply analysis techniques. The primary goal was to analyze a dataset, extract meaningful insights, and present the findings in an organized and interpretable manner.
+
+![CoffeeSalesDashboard](https://github.com/user-attachments/assets/fd921396-18a3-4c2e-90f3-f172db80f668)
+
 
 ### Data Source
 Sales Data: The dataset used for this project is the "CoffeeOrdersProject.csv" file, which was obtained from [here](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx).
@@ -13,7 +16,7 @@ Sales Data: The dataset used for this project is the "CoffeeOrdersProject.csv" f
 - **VLOOKUP:** Used to fill out customer data in the orders table.
 - **Index, Match:** Used to fill out product data.
 - **Logical Functions:** Used IF() statements to handle empty data values.
-- Improved general formatting (Changed date format and included units for 'size' column)
+- Improved general formatting (Changed date format and included units for the 'size' column)
 
 ### Exploratory Data Analysis
 This project aimed to answer these key questions:
@@ -28,8 +31,8 @@ Created PivotTables to summarize and analyze the sales data and organized everyt
 The analysis results are summarized as follows:
 1. A general sales trend was difficult to identify. Coffee bean orders seemed to peak every 2-3 months, which indicates how often consumers replace orders.
 2. Excelsa was the most popular coffee type overall, followed by Arabica, Liberica, and Robusta. This trend tends to deviate at different roast types and sizes.
-3. Overall, the most popular roast type was found to be a Light roast, followed by Medium and Dark roasts.
-
+3. Overall, the most popular roast type was Light roast, followed by Medium and Dark roasts.
+   
 ### Recommendations
 Based on the analysis, the following actions are recommended:
 - Offer promotions and discounts during off-peak months.
@@ -39,5 +42,4 @@ Based on the analysis, the following actions are recommended:
 ### Limitations
 The analysis was constrained by the quality and completeness of the available data. Any inaccuracies, missing values, or biases within the dataset may have impacted the results and conclusions.
 
-### References
 
